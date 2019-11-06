@@ -9,7 +9,7 @@ from discord.ext import commands
 
 client = commands.Bot(command_prefix="<")
 
-token = 'NjMzNzk5MDMyODYyNDA4NzA0.XaZOZw.dx57LUhi7gbeMnaY2YBhbJdVwO0'
+token = 'TOKEN_HERE'
 
 @client.event
 async def on_ready():
